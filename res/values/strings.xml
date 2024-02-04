@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DWF AAB Watchface</string>
+    <string name="watchface_title">DWF AAB Watchface</string>
+    <string name="title_runtime">Module Runtime</string>
+</resources>
