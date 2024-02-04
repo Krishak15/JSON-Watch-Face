@@ -1,4 +1,5 @@
-![my badge](https://img.shields.io/badge/Made%20with-Flutter-blue?style=for-the-badge&logo=flutter)  &nbsp; ![my badge](https://img.shields.io/github/last-commit/Krishak15/JSON-Watch-Face/main?style=for-the-badge) &nbsp; <img src="screenshots/badges/badge.svg" width="150"  />
+![my badge](https://img.shields.io/github/last-commit/Krishak15/JSON-Watch-Face/main?style=for-the-badge)
+<img src="screenshots/badges/badge.svg" width="150"  />
 
 ## JSON Formatted Watch Face
 
