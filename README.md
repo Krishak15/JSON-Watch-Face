@@ -5,7 +5,7 @@
 
 &nbsp;
 <div id="image-container">
-  <img src="screenshots/1000464312.jpg" alt="Poster" height="270">
+  <img src="screenshots/1000464312.jpg" alt="Poster" height="400">
   &nbsp;
   <img src="screenshots/json_watch_face.png" alt="Poster" height="200">
 </div>
