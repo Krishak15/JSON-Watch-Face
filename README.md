@@ -5,9 +5,17 @@
 
 &nbsp;
 <div id="image-container">
-  <img src="screenshots/1000464312.jpg" alt="Poster" height="400">
+  <img src="screenshots/1000464312.jpg" alt="Poster" height="300">
+    &nbsp;
+   <img src="screenshots/mockups/customise_screen.png" alt="Poster" height="300">
   &nbsp;
-  <img src="screenshots/json_watch_face.png" alt="Poster" height="200">
+  <img src="screenshots/mockups/color_screen.png" alt="Poster" height="300">
+  &nbsp;
+  <img src="screenshots/mockups/background_screen.png" alt="Poster" height="300">
+  &nbsp;
+  <img src="screenshots/mockups/complication_screen.png" alt="Poster" height="300">
+  &nbsp;
+  <img src="screenshots/mockups/aod_screen.png" alt="Poster" height="300">
 </div>
 &nbsp;
 &nbsp;
