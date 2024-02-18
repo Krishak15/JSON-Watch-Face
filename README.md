@@ -7,6 +7,10 @@
 <div id="image-container">
   <img src="screenshots/1000464312.jpg" alt="Poster" height="300">
     &nbsp;
+    &nbsp;
+    &nbsp;
+    &nbsp;
+    &nbsp;
    <img src="screenshots/mockups/customise_screen.png" alt="Poster" height="300">
   &nbsp;
   <img src="screenshots/mockups/color_screen.png" alt="Poster" height="300">
